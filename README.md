@@ -1,20 +1,20 @@
 ## Hi! 👋🏻 I'm Pedro Gollo
 
 <div>
-  <a href="https://github.com/paulosalvatore" target="_blank">
+  <a href="https://github.com/pbgollo" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/salvatorepaulo" target="_blank">
+  <a href="https://linkedin.com/in/pedro-gollo-a58711234" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
 
 <div>
-  <a href="https://github.com/paulosalvatore" target="_blank">
-    <img src="https://img.shields.io/github/followers/paulosalvatore?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/pbgollo" target="_blank">
+    <img src="https://img.shields.io/github/followers/pbgollo?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/paulosalvatore" target="_blank">
-    <img src="https://img.shields.io/github/stars/paulosalvatore?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/pbgollo" target="_blank">
+    <img src="https://img.shields.io/github/stars/pbgollo?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
 </div>
 
@@ -281,13 +281,13 @@
 <!-- STATS:START -->
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=paulosalvatore&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=pbgollo&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=paulosalvatore&theme=dracula" alt="My contributions" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pbgollo&theme=dracula" alt="My contributions" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulosalvatore&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pbgollo&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
 
 <!-- STATS:END -->
