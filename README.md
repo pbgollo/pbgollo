@@ -65,39 +65,23 @@
 
 ### Frontend
 
-<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
-<img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
-
-</td>
-<td align="center" width="36%" valign="top">
-
-### Games
-
-<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
-<img style="margin: 10px" src="assets/csharp.svg" alt="C#" title="C#" height="50" />
 
 </td>
 <td align="center" width="36%" valign="top">
 
 ### Backend
 
-<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
-<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> 
+<img style="margin: 10px" src="assets/c-original.svg" alt="C" title="C" height="50" />
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" valign="top">
 
-### Database
-
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
-<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
-
-</td>
 <td align="center" valign="top">
 
 ### Mobile
@@ -110,8 +94,6 @@
 
 ### Cloud & DevOps
 
-<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
-<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
 <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
 
 </td>
