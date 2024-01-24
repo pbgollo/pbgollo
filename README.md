@@ -7,6 +7,7 @@
   <a href="https://linkedin.com/in/pedro-gollo-a58711234" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
+  <a href = "mailto:pedrobgollo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
@@ -106,7 +107,7 @@
 
 
 <details>
-<summary><small>Technology Stack (full list)</small></summary>
+<summary><small>Technology Stack Full List</small></summary>
 <table>
 
 <tr>
