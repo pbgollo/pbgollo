@@ -1,4 +1,4 @@
-## Hi! 👋🏻 I'm Pedro Gollo
+## Hi! I'm Pedro Gollo! 👋🏻
 
 <div>
   <a href="https://github.com/pbgollo" target="_blank">
@@ -75,6 +75,8 @@
 
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> 
 <img style="margin: 10px" src="assets/c-original.svg" alt="C" title="C" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 
 </td>
 
@@ -86,13 +88,16 @@
 
 ### Mobile
 
+<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
 <img style="margin: 10px" src="assets/flutter-original.svg" alt="Flutter" title="Flutter" height="50" />
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 
 </td>
 <td align="center" valign="top">
 
 ### Cloud & DevOps
 
+<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
 <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
 
 </td>
@@ -134,7 +139,7 @@
 
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/Eclipse-Darksvg" alt="Eclipse" title="Eclipse" height="50" />
+<img style="margin: 10px" src="assets/Eclipse-Dark.svg" alt="Eclipse" title="Eclipse" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -228,7 +233,7 @@
 <!-- VIEW-COUNT:START -->
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=paulosalvatore&&style=flat-square" alt="Profile views count"/>
+    <img src="https://komarev.com/ghpvc/?username=pbgollo&&style=flat-square" alt="Profile views count"/>
 </div>
 
 <!-- VIEW-COUNT:END -->
