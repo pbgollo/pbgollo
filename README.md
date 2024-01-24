@@ -1,30 +1,13 @@
-## Hi! 👋🏻 I'm Paulo Salvatore :)
+## Hi! 👋🏻 I'm Pedro Gollo
 
 <div>
-  <a href="https://youtube.com/paulosalvatore" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
   <a href="https://github.com/paulosalvatore" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/paulosalvatoree" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/salvatorepaulo" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
-<!--
-<div>
-  <a href="https://youtube.com/paulosalvatore" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCbWFEr7zsKJ92Psrfam7W8Q" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://youtube.com/paulosalvatore" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UCbWFEr7zsKJ92Psrfam7W8Q" alt="YouTube Subscribers" style="margin-bottom: 5px;" />
-  </a>
-</div>
--->
 
 <div>
   <a href="https://github.com/paulosalvatore" target="_blank">
@@ -35,19 +18,6 @@
   </a>
 </div>
 
-### 📺 Latest YouTube Videos (PT-BR)
-
-<!-- YOUTUBE:START -->
-- [Sua bagagem é sua maior aliada, transforme oportunidades em sabedoria, e sabedoria em sucesso!](https://www.youtube.com/watch?v=apGgnPX-nHE)
-- [🚀 Rápido lembrete: Um bom #portfolio  é essencial! E o #GitHub é perfeito para isso!](https://www.youtube.com/watch?v=wxSFd86CfhQ)
-- [Live Salvatore Academy: Dev Android Nativo](https://www.youtube.com/watch?v=EMiRditT-g8)
-- [🚀 Primeira vez no Tech? Confira um trecho do nosso Podcast! #podcast #comunidadedev](https://www.youtube.com/watch?v=XLVCf-TunEE)
-- [🫵 O primeiro passo? Facilitamos para você! Cursos para iniciantes que transformaram o seu futuro. 🧠](https://www.youtube.com/watch?v=zdKo1oHlXfs)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/PauloSalvatore)
-
-
 <!-- BIO:START -->
 
 ### Who am I?
@@ -55,48 +25,34 @@
 <details open>
 <summary><small>EN-US</small></summary>
 
-👨🏻‍🏫 Professor and CEO at Salvatore.Academy, revolutionizing tech education through gamified, real-world experiences.
+👨🏻‍💻 IT Intern at the City Council of Caxias do Sul, currently immersing myself in the dynamic world of technology.
 
-🌎 Former CTO & Co-founder at Virtual Planet, a California-based startup focused on climate change through immersive tech.
+📚 Studying Analysis and Systems Development at the University of Caxias do Sul.
 
-💻 10+ years in software & game dev. Specialized in VR, AI, and AR. Developed for Oculus Rift, Go, and Quest.
+🛠️ Equipped with a technical foundation, having successfully completed a Mechanical course at IFRS and an Electronics course at SENAI, providing a versatile skill set.
 
-📚 Faculty at FIAP and Samsung’s Ocean, teaching VR, AI, Android dev, Games, and AR.
+💡 Focus on learning and growing in the ever-evolving field of Information Technology.
 
-🌐 Active on GitHub with an international profile, contributing to open-source projects and tech innovation.
+🌐 Aspiring to expand my horizons, looking forward to making meaningful contributions and embracing the challenges ahead.
 
 </details>
 
 <details>
 <summary><small>PT-BR</small></summary>
 
-👨🏻‍🏫 Professor e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~12 anos,
-criando os [meus próprios](https://github.com/paulosalvatore/maruim_server) servidores de Tibia, o famoso otzinho pra quem pegou essa fase.
+👨🏻‍💻 Estagiário de TI na Câmara Municipal de Caxias do Sul, atualmente imerso no dinâmico mundo da tecnologia.
 
-🧑🏻‍💻 Iniciei a faculdade em 2016, aos 22, tive o meu primeiro emprego como dev aos 23, e me tornei CTO aos 24. Atuando como professor desde
-2017, estou sempre em busca de compartilhar o conhecimento que adquiri ao longo dessa [jornada](https://www.linkedin.com/in/salvatorepaulo/details/experience/).
-Atualmente sou professor e CEO da [Salvatore.Academy](https://salvatore.academy/), uma escola de tecnologia que ensina a criar sites, apps ou games. Também atuo no [Samsung Ocean](https://oceanbrasil.com/) e faço parte da [FIAP](https://www.fiap.com.br/), na graduação
-de [Jogos Digitais](https://www.fiap.com.br/graduacao/tecnologo/jogos-digitais/) e no MBA de [Gestão da TI](https://www.fiap.com.br/mba/mba-em-gestao-da-tecnologia-da-informacao/).
+📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul.
 
-📙 Escritor na Casa do Código, onde [publiquei](https://www.casadocodigo.com.br/products/livro-android-nativo) o meu primeiro
-livro "Android nativo com Kotlin e MVVM: Simplificando técnicas avançadas", introduzindo o universo
-do [DevMon](https://fabricadesinapse.github.io/DevMon/).
+🛠️ Equipado com uma base técnica, tendo concluído com sucesso um curso Técnico de Mecânica no IFRS e um curso de Eletrônica no SENAI, proporcionando um conjunto versátil de habilidades.
 
-🏫 MBA em gestão estratégica de negócios e Graduação em  Digitais pela FIAP. Colaborei em um [artigo científico](https://www.mdpi.com/2073-4441/13/9/1142)
-publicado na revista [Water](https://www.mdpi.com/), sobre usar realidade virtual no planejamento da mudança climática.
+💡 Foco em aprender e crescer no campo em constante evolução da Tecnologia da Informação.
 
-🌎 Em 2018, cofundei e me tornei CTO da [Virtual Planet](https://virtualplanet.tech/), startup localizada na Califórnia que utiliza tecnologias
-imersivas como realidade virtual para comunicar melhor os problemas relacionados à mudança climática.
-
-🔮 Atualmente estou em busca de ampliar os meus [projetos de educação](https://salvatore.academy) e adquirir novas experiências no mundo da programação.
-Meu sonho é conseguir commitar em alguns projetos de código aberto que estão sempre no meu dia a dia, já
-consegui [um pouquinho](https://github.com/nestjs/docs.nestjs.com/pulls?q=is%3Apr+is%3Aclosed+author%3Apaulosalvatore)
-com o [Nest.js](https://nestjs.com/), mas por enquanto só no projeto da documentação haha.
+🌐 Atualmente estou em busca de ampliar os meus horizontes e adquirir novas experiências no mundo da programação.
 
 </details>
 
 <!-- BIO:END -->
-
 
 <!-- SKILLSET:START -->
 
