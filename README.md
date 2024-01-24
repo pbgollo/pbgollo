@@ -117,11 +117,12 @@
 </td>
 <td align="center" valign="top">
 
-### Games
+### Backend
 
-<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
-<img style="margin: 10px" src="assets/csharp.svg" alt="C#" title="C#" height="50" />
-<img style="margin: 10px" src="assets/photoshop.svg" alt="Photoshop" title="Photoshop" height="50" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 
 </td>
 </tr>
@@ -129,12 +130,11 @@
 <tr>
 <td align="center" valign="top">
 
-### Backend
+### Tools & IDEs
 
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
+<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="assets/Eclipse-Darksvg" alt="Eclipse" title="Eclipse" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -152,24 +152,16 @@
 ### Mobile
 
 <img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
-<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+<img style="margin: 10px" src="assets/flutter-original.svg" alt="Flutter" title="Flutter" height="50" />
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/reactivex.svg" alt="ReactiveX" title="ReactiveX" height="50" />
 
 </td>
 <td align="center" valign="top">
 
 ### Cloud & DevOps
 
-<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
-<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
 <img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
-<img style="margin: 10px" src="assets/aws-cloudfront.svg" alt="AWS CloudFront" title="AWS CloudFront" height="50" />
-<img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
-<img style="margin: 10px" src="assets/aws-ec2.svg" alt="AWS EC2" title="AWS EC2" height="50" />
-<img style="margin: 10px" src="assets/aws-lambda.svg" alt="AWS Lambda" title="AWS Lambda" height="50" />
-<img style="margin: 10px" src="assets/aws-rds.svg" alt="AWS RDS" title="AWS RDS" height="50" />
 
 </td>
 </tr>
@@ -194,27 +186,17 @@
 <tr>
 <td align="center" valign="top">
 
-### Tools & IDEs
+### Started with
 
-<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> 
+<img style="margin: 10px" src="assets/c-original.svg" alt="C" title="C" height="50" />
 
 </td>
 <td align="center" valign="top">
 
-### Started with
-
-<img style="margin: 10px" src="assets/lua.svg" alt="Lua" title="Lua" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
-
 ### Want to learn
-
-<img style="margin: 10px" src="assets/solidity.svg" alt="Solidity" title="Solidity" height="50" />
-<img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
-<img style="margin: 10px" src="assets/graphql.svg" alt="GraphQL" title="GraphQL" height="50" />
+<img style="margin: 10px" src="assets/R-Dark.svg" alt="R" title="R" height="50" />
+<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
 
 </td>
 </tr>
