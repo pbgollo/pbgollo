@@ -91,9 +91,7 @@
 
 ### Mobile
 
-<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
 <img style="margin: 10px" src="assets/flutter-original.svg" alt="Flutter" title="Flutter" height="50" />
-<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 
 </td>
 <td align="center" valign="top">
