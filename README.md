@@ -89,6 +89,7 @@
 
 ### Mobile
 
+<img style="margin: 10px" src="assets/dart.svg" alt="Dart" title="Dart" height="50" />
 <img style="margin: 10px" src="assets/flutter-original.svg" alt="Flutter" title="Flutter" height="50" />
 
 </td>
@@ -153,6 +154,7 @@
 
 ### Mobile
 
+<img style="margin: 10px" src="assets/dart.svg" alt="Dart" title="Dart" height="50" />
 <img style="margin: 10px" src="assets/flutter-original.svg" alt="Flutter" title="Flutter" height="50" />
 
 </td>
