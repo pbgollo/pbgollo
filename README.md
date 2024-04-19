@@ -30,8 +30,6 @@
 
 📚 Studying Analysis and Systems Development at the University of Caxias do Sul.
 
-🛠️ Equipped with a technical foundation, having successfully completed a Mechanical course at IFRS and an Electronics course at SENAI, providing a versatile skill set.
-
 💡 Focus on learning and growing in the ever-evolving field of Information Technology.
 
 🌐 Aspiring to expand my horizons, looking forward to making meaningful contributions and embracing the challenges ahead.
@@ -44,8 +42,6 @@
 👨🏻‍💻 Estagiário de TI na Câmara Municipal de Caxias do Sul, atualmente imerso no dinâmico mundo da tecnologia.
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul.
-
-🛠️ Equipado com uma base técnica, tendo concluído com sucesso um curso Técnico de Mecânica no IFRS e um curso de Eletrônica no SENAI, proporcionando um conjunto versátil de habilidades.
 
 💡 Foco em aprender e crescer no campo em constante evolução da Tecnologia da Informação.
 
