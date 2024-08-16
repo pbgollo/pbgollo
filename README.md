@@ -32,8 +32,6 @@
 
 💡 Focus on learning and growing in the ever-evolving field of Information Technology.
 
-🌐 Aspiring to expand my horizons, looking forward to making meaningful contributions and embracing the challenges ahead.
-
 </details>
 
 <details>
@@ -44,8 +42,6 @@
 📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul.
 
 💡 Foco em aprender e crescer no campo em constante evolução da Tecnologia da Informação.
-
-🌐 Atualmente estou em busca de ampliar os meus horizontes e adquirir novas experiências no mundo da programação.
 
 </details>
 
