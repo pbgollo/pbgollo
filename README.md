@@ -26,7 +26,7 @@
 <details open>
 <summary><small>EN-US</small></summary>
 
-👨🏻‍💻 IT Intern at the City Council of Caxias do Sul, currently immersing myself in the dynamic world of technology.
+👨🏻‍💻 Full Stack developer at Nomad Innovation, currently immersing myself in the dynamic world of technology.
 
 📚 Studying Analysis and Systems Development at the University of Caxias do Sul.
 
@@ -37,7 +37,7 @@
 <details>
 <summary><small>PT-BR</small></summary>
 
-👨🏻‍💻 Estagiário de TI na Câmara Municipal de Caxias do Sul, atualmente imerso no dinâmico mundo da tecnologia.
+👨🏻‍💻 Desenvolvedor Full Stack na Nomad Innovation, atualmente imerso no dinâmico mundo da tecnologia.
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul.
 
