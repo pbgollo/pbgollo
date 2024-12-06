@@ -60,6 +60,7 @@
 
 <img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
+<img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 
 </td>
@@ -109,6 +110,7 @@
 
 <img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
+<img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 
 </td>
