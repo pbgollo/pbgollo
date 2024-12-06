@@ -70,6 +70,7 @@
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> 
 <img style="margin: 10px" src="assets/c-original.svg" alt="C" title="C" height="50" />
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" /> 
 
 </td>
 
@@ -115,9 +116,10 @@
 
 ### Backend
 
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
+<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> 
+<img style="margin: 10px" src="assets/c-original.svg" alt="C" title="C" height="50" />
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
+<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" /> 
 
 </td>
 </tr>
