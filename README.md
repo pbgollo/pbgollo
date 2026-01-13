@@ -87,7 +87,7 @@
 
 <img style="margin: 10px" src="assets/dart.svg" alt="Dart" title="Dart" height="50" />
 <img style="margin: 10px" src="assets/flutter-original.svg" alt="Flutter" title="Flutter" height="50" />
-<img style="margin: 10px" src="assets/react-native.png" alt="React Native" title="React Native" height="50" />
+<img style="margin: 10px" src="assets/reactnative.png" alt="React Native" title="React Native" height="50" />
 
 </td>
 <td align="center" valign="top">
