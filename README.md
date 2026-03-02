@@ -30,7 +30,6 @@
 
 👨🏻‍💻 Full Stack developer at Nomad Innovation.  
 📚 Studying Software Engineering at Universidade de Caxias do Sul / Universidade de Coimbra.  
-💡 Focus on learning and growing in the ever-evolving field of Information Technology.
 
 </details>
 
@@ -39,7 +38,6 @@
 
 👨🏻‍💻 Desenvolvedor Full Stack na Nomad Innovation.  
 📚 Estudante de Engenharia de Software na Universidade de Caxias do Sul / Universidade de Coimbra.  
-💡 Foco em aprender e crescer no campo em constante evolução da Tecnologia da Informação.
 
 </details>
 
